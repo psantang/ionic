@@ -1,0 +1,8 @@
+{
+  "name": "ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "87f7a108"
+}
